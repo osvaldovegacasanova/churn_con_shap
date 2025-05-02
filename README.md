@@ -16,7 +16,7 @@ Este proyecto implementa un flujo completo de análisis de fuga de clientes (chu
 ## 📁 Archivos del repositorio
 
 - `churn_analysis_pipeline.ipynb`: Notebook principal con todo el flujo de trabajo
-- `data/Customer-Churn-Records.csv`: Dataset de ejemplo (puedes reemplazarlo por uno simulado si no puedes compartir datos reales)
+- `Customer-Churn-Records.csv`: Dataset de ejemplo (puedes reemplazarlo por uno simulado si no puedes compartir datos reales)
 - `requirements.txt`: Paquetes necesarios para ejecutar el proyecto
 - `.gitignore`: Archivos que se excluyen del control de versiones
 
